@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=egg&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=BDBDC8&height=150&section=footer" />
 
 <!-- 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=색상코드&height=50&section=header/&text=텍스트&fontSize=텍스트크기" />
