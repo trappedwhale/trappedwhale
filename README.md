@@ -86,13 +86,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trappedwhale)](https://github.com/trappedwhale/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trappedwhale&show_icons=true&theme=transparent)
-</div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trappedwhale)](https://github.com/trappedwhale/github-readme-stats)
-<img src="https://capsule-render.vercel.app/api?type=slice&color=BDBDC8&height=150&section=footer" />
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trappedwhale&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trappedwhale&layout=compact&theme=transparent)
-
+</div>
 
