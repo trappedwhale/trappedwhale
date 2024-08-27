@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/dart-black?style=for-the-badge&logo=Dart&logoColor=02569B" />
 
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/C#-black?style=for-the-badge&logo=CSharp&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/C#-black?style=for-the-badge&logo=CS&logoColor=02569B" />
 
 </div>
 
