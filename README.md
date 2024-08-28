@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   
-  <img src="https://img.shields.io/badge/AndroidStudio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Android Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
 
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
