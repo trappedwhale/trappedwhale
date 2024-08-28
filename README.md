@@ -58,7 +58,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/dart-black?style=for-the-badge&logo=Dart&logoColor=02569B" />
   <img src="https://img.shields.io/badge/rust-white?style=for-the-badge&logo=Rust&logoColor=000000" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=000000" />
-  
+    <img src="https://img.shields.io/badge/siwft-F05138?style=for-the-badge&logo=Swift&logoColor=black" />
+
 </div>
 
 <div align="center">
