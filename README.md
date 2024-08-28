@@ -4,18 +4,12 @@
 <div align="center">
   
 | 🔭 Currently working on | 😄 Pronouns |
-|:------------------------|:-----------:|
+|:------------------------|:-----------|
 | 💻 Developing SNS apps and afterlife using Flutter <br/>   | 😎 Cool Guy <br/>  🎈 ENTJ |
   
 </div>
 
-<div align="center">
-  
-| 🔭 Currently working on | 😄 Pronouns |
-|:---------------------|:-----------------------|
-| 💻 Deep Learning and AI <br/> 📈 Data Analysis and Visualization <br/> 💰 Cryptocurrency and Blockchain Technology | 🎸 I love playing guitar! <br/> 🌍 I'm passionate about traveling. <br/> 🎮 Video games are my favorite hobby. |
 
-</div>
 
 <br>
 
