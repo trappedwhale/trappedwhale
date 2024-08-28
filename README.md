@@ -41,6 +41,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
 </div>
 
+<br><br>
+
+<h3 align="center">✨ Languages ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/dart-black?style=for-the-badge&logo=Dart&logoColor=02569B" />
   <img src="https://img.shields.io/badge/rust-white?style=for-the-badge&logo=Rust&logoColor=000000" />
@@ -48,6 +51,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=Python&logoColor=000000" />
   
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=Html&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=Css&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=Python&logoColor=000000" />
+  
+</div>
+
 
 <br><br><br><br>
 
