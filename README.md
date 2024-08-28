@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 
 <!-- <h3 align="center">🛠 Tools 🛠</h3> -->
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">## 🛠 Tools 🛠</h3>
 
 -------------
 
