@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">🛠 Tools 🛠</h3>
 
+<hr style="margin-top: 0; margin-bottom: 0;">
+
 -----------
 
 <div align="center">
