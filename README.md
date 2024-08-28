@@ -41,31 +41,29 @@
 
 <br>
 
-<h2 align="center">🛠 Tools 🛠</h2>
+<h2>🛠 Tools 🛠</h2>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-  </div>
- 
-<div align="center">
-   <img src="https://img.shields.io/badge/Spread-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=black" />
+</div>
 
+<div>
+  <img src="https://img.shields.io/badge/Spread-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleAds-4285F4.svg?style=for-the-badge&logo=GoogleAds&logoColor=3DDC84" />
 </div>
 
 <br>
 
-<!--내용 부분-->
-<h2 align="center">✨ Tech Stack ✨</h2>
-<div align="center">
+<h2>✨ Tech Stack ✨</h2>
+<div>
   <img src="https://img.shields.io/badge/flutter-0eb4fc?style=for-the-badge&logo=Flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Bevy-232326.svg?style=for-the-badge&logo=Bevy&logoColor=white" />
 </div>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=GodotEngine&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
@@ -73,22 +71,23 @@
 
 <br>
 
-<h2 align="center">✨ Languages ✨</h2>
+<h2>✨ Languages ✨</h2>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/dart-0eb4fc?style=for-the-badge&logo=Dart&logoColor=02569B" />
   <img src="https://img.shields.io/badge/rust-white?style=for-the-badge&logo=Rust&logoColor=000000" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=000000" />
-    <img src="https://img.shields.io/badge/siwft-F05138?style=for-the-badge&logo=Swift&logoColor=black" />
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=black" />
 </div>
-<div align="center">
-    <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 <br><br>
+
 
 <div align="center">
   
