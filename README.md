@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   </table>
 </div>
 
+| 🌱 Currently Learning | 🎨 Fun Facts & Hobbies |
+|:---------------------|:-----------------------|
+| 💻 Deep Learning and AI <br/> 📈 Data Analysis and Visualization <br/> 💰 Cryptocurrency and Blockchain Technology | 🎸 I love playing guitar! <br/> 🌍 I'm passionate about traveling. <br/> 🎮 Video games are my favorite hobby. |
 
 <br>
 
