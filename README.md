@@ -49,18 +49,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
 
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 <br>
-
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trappedwhale&layout=compact&theme=transparent)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trappedwhale&show_icons=true&theme=transparent)
-</div>
-
-<div align="center">
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
