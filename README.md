@@ -25,10 +25,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spread-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=black" />
-</div>
+  </div>
+ 
 
 <div align="center">
+   <img src="https://img.shields.io/badge/Spread-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=black" />
+
   <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleAds-4285F4.svg?style=for-the-badge&logo=GoogleAds&logoColor=3DDC84" />
 </div>
