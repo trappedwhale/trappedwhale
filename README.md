@@ -12,7 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+  
+<h3 align="center">🎨 Fun Facts & Hobbies</h3>
+<p align="center">
+  🎸 I love playing guitar!<br/>
+  🌍 I'm passionate about traveling.<br/>
+  🎮 Video games are my favorite hobby.
+</p>
 
 
 <br>
