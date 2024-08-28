@@ -1,19 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
-**trappedwhale/trappedwhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+| 🔭 Currently working on | 😄 Pronouns |
+|:------------------------|:-----------:|
+| 💻 Developing SNS apps and `afterlife` using Flutter <br/> 📈 Data Analysis and Visualization <br/> 💰 Cryptocurrency and Blockchain Technology | 😎 Cool Guy <br/> ENTJ |
+  
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+| 🔭 Currently working on | 😄 Pronouns |
+|:---------------------|:-----------------------|
+| 💻 Deep Learning and AI <br/> 📈 Data Analysis and Visualization <br/> 💰 Cryptocurrency and Blockchain Technology | 🎸 I love playing guitar! <br/> 🌍 I'm passionate about traveling. <br/> 🎮 Video games are my favorite hobby. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **cryptocurrency**, ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+</div>
 
-
+<br>
 
 <div align="center">
   
