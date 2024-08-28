@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <hr style="margin-top: 0; margin-bottom: 0;">
 
------------
-
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
