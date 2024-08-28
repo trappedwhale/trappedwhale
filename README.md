@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
   
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Bevy-232326.svg?style=for-the-badge&logo=Bevy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bevy-232326.svg?style=for-the-badge&logo=Bevy&logoColor=white" />
 
 </div>
 
