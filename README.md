@@ -13,19 +13,12 @@
 
 <br>
 
-<div align="center">
-  
-| 🌱 Currently Learning | 🎨 Fun Facts & Hobbies |
-|:---------------------|:-----------------------|
-| 💻 Deep Learning and AI <br/> 📈 Data Analysis and Visualization <br/> 💰 Cryptocurrency and Blockchain Technology | 🎸 I love playing guitar! <br/> 🌍 I'm passionate about traveling. <br/> 🎮 Video games are my favorite hobby. |
-
-</div>
 
 
 <div align="center">
-  <table width="100%">
+  <table width="90%">
     <tr>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h2>🌱 Currently Learning</h2>
         <p>
           💻 Deep Learning and AI<br/>
@@ -33,7 +26,7 @@
           💰 Cryptocurrency and Blockchain Technology
         </p>
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h2>🎨 Fun Facts & Hobbies</h2>
         <p>
           🎸 I love playing guitar!<br/>
