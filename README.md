@@ -13,38 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-<div align="center">
-  <table style="width:90%">
-    <tr>
-      <td align="center">
-        <h3>🌱 Currently Learning</h3>
-      </td>
-      <td align="center">
-        <h3>🎨 Fun Facts & Hobbies</h3>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>
-          💻 Deep Learning and AI<br/>
-          📈 Data Analysis and Visualization<br/>
-          💰 Cryptocurrency and Blockchain Technology
-        </p>
-      </td>
-      <td>
-        <p>
-          🎸 I love playing guitar!<br/>
-          🌍 I'm passionate about traveling.<br/>
-          🎮 Video games are my favorite hobby.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
+<div align="center">
+  
 | 🌱 Currently Learning | 🎨 Fun Facts & Hobbies |
 |:---------------------|:-----------------------|
 | 💻 Deep Learning and AI <br/> 📈 Data Analysis and Visualization <br/> 💰 Cryptocurrency and Blockchain Technology | 🎸 I love playing guitar! <br/> 🌍 I'm passionate about traveling. <br/> 🎮 Video games are my favorite hobby. |
+
+</div>
 
 <br>
 
