@@ -7,12 +7,11 @@
   😎 Cool Guy <br/>
 </p>
 <br>
-
 <h2>🔭 Currently working on</h2>
 <p>
   💻 Developing SNS apps and afterlife using Flutter <br/>
 </p>
-
+<br>
 <td width="50%" valign="top">
 <h2>🎨 Fun Facts & Hobbies</h2>
 <p>
