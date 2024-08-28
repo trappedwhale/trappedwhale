@@ -17,21 +17,21 @@ Here are some ideas to get you started:
   <table width="90%">
     <tr>
       <td align="center">
-        <h2>🌱 Currently Learning</h2>
+        <h3>🌱 Currently Learning</h3>
       </td>
       <td align="center">
-        <h2>🎨 Fun Facts & Hobbies</h2>
+        <h3>🎨 Fun Facts & Hobbies</h3>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
         <p>
           💻 Deep Learning and AI<br/>
           📈 Data Analysis and Visualization<br/>
           💰 Cryptocurrency and Blockchain Technology
         </p>
       </td>
-      <td align="center">
+      <td>
         <p>
           🎸 I love playing guitar!<br/>
           🌍 I'm passionate about traveling.<br/>
