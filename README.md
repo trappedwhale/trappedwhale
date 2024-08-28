@@ -14,27 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 <div align="center">
-<table width="90%">
-  <tr>
-    <td>
-      <h2 align="center">🌱 Currently Learning</h2>
-      <p>
-        💻 Deep Learning and AI<br/>
-        📈 Data Analysis and Visualization<br/>
-        💰 Cryptocurrency and Blockchain Technology
-      </p>
-    </td>
-    <td>
-      <h2 align="center">🎨 Fun Facts & Hobbies</h2>
-      <p>
-        🎸 I love playing guitar!<br/>
-        🌍 I'm passionate about traveling.<br/>
-        🎮 Video games are my favorite hobby.
-      </p>
-    </td>
-  </tr>
-</table>
+  <table width="90%">
+    <tr>
+      <td align="center">
+        <h2>🌱 Currently Learning</h2>
+      </td>
+      <td align="center">
+        <h2>🎨 Fun Facts & Hobbies</h2>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p>
+          💻 Deep Learning and AI<br/>
+          📈 Data Analysis and Visualization<br/>
+          💰 Cryptocurrency and Blockchain Technology
+        </p>
+      </td>
+      <td align="center">
+        <p>
+          🎸 I love playing guitar!<br/>
+          🌍 I'm passionate about traveling.<br/>
+          🎮 Video games are my favorite hobby.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <br>
 
