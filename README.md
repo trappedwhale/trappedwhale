@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <br>
 #02569B
 #147EFB
+#232326
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -58,6 +59,7 @@ Here are some ideas to get you started:
 
   
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Bevy-black.svg?style=for-the-badge&logo=Bevy&logoColor=232326" />
 
 </div>
 
@@ -75,7 +77,6 @@ Here are some ideas to get you started:
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trappedwhale&layout=compact&theme=transparent)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trappedwhale&show_icons=true&theme=transparent)
-
 
 
 </div>
