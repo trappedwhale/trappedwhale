@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 <br>
 
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
 </div>
 
-<br><br>
+<br>
 
 <h3 align="center">✨ Languages ✨</h3>
 <div align="center">
@@ -62,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<br><br><br><br>
+<br><br><br>
 
 <div align="center">
   
