@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-
-<hr style="margin-top: 0; margin-bottom: 0;">
+<h4 align="center">🛠 Tools 🛠</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=black" />
@@ -56,8 +54,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">✨ Languages ✨</h3>
--------------
-=============
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/dart-0eb4fc?style=for-the-badge&logo=Dart&logoColor=02569B" />
