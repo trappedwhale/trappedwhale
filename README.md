@@ -28,6 +28,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spread-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=black" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleAds-4285F4.svg?style=for-the-badge&logo=GoogleAds&logoColor=3DDC84" />
+</div>
+
+
 <br>
 
 
@@ -45,11 +51,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
 </div>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleAds-4285F4.svg?style=for-the-badge&logo=GoogleAds&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
-</div>
 
 <br>
 
