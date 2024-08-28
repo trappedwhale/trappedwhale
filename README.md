@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello and Welcome!</h1>
 <p align="center">
-  I'm thrilled to share a bit about myself. Here's how I describe my unique blend of passions and interests:
+   I’m excited to have you here and to share a glimpse into who I am. My journey is a vibrant mix of passions, interests, and experiences that shape the way I approach life and work. From exploring new technologies to indulging in my favorite hobbies, I strive to balance creativity with innovation. Here’s a closer look at how I embrace and describe my unique blend of traits and pursuits
 </p>
 
 <br>
