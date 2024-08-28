@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+
+<!-- https://m.blog.naver.com/tramper2/222278488224 -->
+
+
 <h1 align="center">Hello and Welcome!</h1>
 <p align="center">
    I’m excited to have you here and to share a glimpse into who I am. My journey is a vibrant mix of passions, interests, and experiences that shape the way I approach life and work. From exploring new technologies to indulging in my favorite hobbies, I strive to balance creativity with innovation. Here’s a closer look at how I embrace and describe my unique blend of traits and pursuits
