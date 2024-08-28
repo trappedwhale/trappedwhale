@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 <div align="center">
-<table>
+<table width="80%">
   <tr>
     <td>
       <h2 align="center">🌱 Currently Learning</h2>
