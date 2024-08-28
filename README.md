@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -38,7 +39,13 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=GodotEngine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=GodotEngine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
 </div>
