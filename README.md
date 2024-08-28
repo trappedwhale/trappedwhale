@@ -17,7 +17,13 @@
   🎨 Creative Mind<br/>
   🌱 Lifelong Learner<br/>
 </p>
-
+<br>
+<h2>🎨 Fun Facts & Hobbies</h2>
+<p>
+  🎸 I love playing guitar!<br/>
+  🌍 I'm passionate about traveling.<br/>
+  🎮 Video games are my favorite hobby.
+</p>
 <br>
 <h2>🔭 Currently working on</h2>
 <p>
@@ -42,15 +48,6 @@
   💰 Cryptocurrency and Blockchain Technology
 </p>
 
-<br>
-
-<td width="50%" valign="top">
-<h2>🎨 Fun Facts & Hobbies</h2>
-<p>
-  🎸 I love playing guitar!<br/>
-  🌍 I'm passionate about traveling.<br/>
-  🎮 Video games are my favorite hobby.
-</p>
 
 <br>
 
