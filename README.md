@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
-#478CBF
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
