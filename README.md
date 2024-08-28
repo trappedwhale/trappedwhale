@@ -31,24 +31,12 @@
   🛠 Working on the `afterlife` project with Flutter<br/>
 </p>
 <br>
-<td width="50%" valign="top">
-<h2>🎨 Fun Facts & Hobbies</h2>
-<p>
-  🎸 I love playing guitar!<br/>
-  🌍 I'm passionate about traveling.<br/>
-  🎮 Video games are my favorite hobby.
-</p>
-
-<br>
-
 <h2>🌱 Currently Learning</h2>
 <p>
   💻 Deep Learning and AI<br/>
   📈 Data Analysis and Visualization<br/>
   💰 Cryptocurrency and Blockchain Technology
 </p>
-
-
 <br>
 
 <h2>🛠 Tools 🛠</h2>
