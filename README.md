@@ -23,9 +23,9 @@
 
 
 <div align="center">
-  <table width="90%">
+  <table width="100%">
     <tr>
-      <td width="20%">
+      <td width="50%">
         <h2>🌱 Currently Learning</h2>
         <p>
           💻 Deep Learning and AI<br/>
@@ -33,7 +33,7 @@
           💰 Cryptocurrency and Blockchain Technology
         </p>
       </td>
-      <td>
+      <td width="50%">
         <h2>🎨 Fun Facts & Hobbies</h2>
         <p>
           🎸 I love playing guitar!<br/>
