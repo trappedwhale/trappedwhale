@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <table width="90%">
+  <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <h2>🌱 Currently Learning</h2>
