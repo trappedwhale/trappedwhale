@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/flutter-0eb4fc?style=for-the-badge&logo=Flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=02569B" />
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">✨ Languages ✨</h3>
+<h2 align="center">✨ Languages ✨</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/dart-0eb4fc?style=for-the-badge&logo=Dart&logoColor=02569B" />
