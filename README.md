@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=Html&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=Css&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html&logoColor=black" />
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=Python&logoColor=000000" />
   
 </div>
