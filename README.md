@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">✨ Languages ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/dart-0dfcf0?style=for-the-badge&logo=Dart&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/dart-0eb4fc?style=for-the-badge&logo=Dart&logoColor=02569B" />
   <img src="https://img.shields.io/badge/rust-white?style=for-the-badge&logo=Rust&logoColor=000000" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=000000" />
     <img src="https://img.shields.io/badge/siwft-F05138?style=for-the-badge&logo=Swift&logoColor=black" />
