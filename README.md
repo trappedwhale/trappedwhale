@@ -42,13 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
 </div>
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Android Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
-
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
 
 <br>
 #02569B
@@ -66,6 +59,14 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=02569B" />
 
+</div>
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Android Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
+
+<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 <br>
