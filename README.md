@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h4 align="center">🛠 Tools 🛠</h4>
+<h3 align="center">🛠 Tools 🛠</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=black" />
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   </div>
  
-
 <div align="center">
    <img src="https://img.shields.io/badge/Spread-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=black" />
 
@@ -33,9 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GoogleAds-4285F4.svg?style=for-the-badge&logo=GoogleAds&logoColor=3DDC84" />
 </div>
 
-
 <br>
-
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -50,31 +47,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
 </div>
 
-
 <br>
 
 <h3 align="center">✨ Languages ✨</h3>
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/dart-0eb4fc?style=for-the-badge&logo=Dart&logoColor=02569B" />
   <img src="https://img.shields.io/badge/rust-white?style=for-the-badge&logo=Rust&logoColor=000000" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=000000" />
     <img src="https://img.shields.io/badge/siwft-F05138?style=for-the-badge&logo=Swift&logoColor=black" />
-
 </div>
-
-
 <div align="center">
     <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
 </div>
 
-
-<br><br><br>
+<br><br>
 
 <div align="center">
   
