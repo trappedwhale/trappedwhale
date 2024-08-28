@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- <h3 align="center">🛠 Tools 🛠</h3> -->
 <h3 align="center">## 🛠 Tools 🛠</h3>
-
 -------------
 
 <div align="center">
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
 
 
 <!--내용 부분-->
-##<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
 -------------
 
 <div align="center">
@@ -61,7 +59,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">✨ Languages ✨</h3>
-
+-------------
 =============
 
 <div align="center">
