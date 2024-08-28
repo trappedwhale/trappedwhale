@@ -4,12 +4,20 @@
 
 <h2>😄 Pronouns</h2>
 <p>
-  😎 Cool Guy <br/>
+  😎 Cool Guy<br/>
+  📚 Avid Reader<br/>
+  🎶 Music Lover<br/>
+  🚀 Adventurer<br/>
+  🌟 Innovator<br/>
+  🎨 Creative Mind<br/>
+  🌱 Lifelong Learner<br/>
 </p>
+
 <br>
 <h2>🔭 Currently working on</h2>
 <p>
-  💻 Developing SNS apps and afterlife using Flutter <br/>
+  💻 Developing SNS apps using Flutter<br/>
+  🛠 Working on the `afterlife` project with Flutter<br/>
 </p>
 <br>
 <td width="50%" valign="top">
