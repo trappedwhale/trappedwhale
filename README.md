@@ -5,6 +5,8 @@
   I'm thrilled to share a bit about myself. Here's how I describe my unique blend of passions and interests:
 </p>
 
+<br>
+
 <h2>😄 Pronouns</h2>
 <p>
   😎 Cool Guy<br/>
