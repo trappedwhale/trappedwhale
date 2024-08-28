@@ -21,6 +21,30 @@
 
 </div>
 
+
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td width="20%">
+        <h2>🌱 Currently Learning</h2>
+        <p>
+          💻 Deep Learning and AI<br/>
+          📈 Data Analysis and Visualization<br/>
+          💰 Cryptocurrency and Blockchain Technology
+        </p>
+      </td>
+      <td>
+        <h2>🎨 Fun Facts & Hobbies</h2>
+        <p>
+          🎸 I love playing guitar!<br/>
+          🌍 I'm passionate about traveling.<br/>
+          🎮 Video games are my favorite hobby.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 
 <h2 align="center">🛠 Tools 🛠</h2>
