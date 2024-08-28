@@ -36,6 +36,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=Flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Bevy-232326.svg?style=for-the-badge&logo=Bevy&logoColor=white" />
+</div>
+
+<div align="center">
     <img src="https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=GodotEngine&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
