@@ -5,7 +5,7 @@
   
 | 🔭 Currently working on | 😄 Pronouns |
 |:------------------------|:-----------:|
-| 💻 Developing SNS apps and `afterlife` using Flutter <br/> 📈 Data Analysis and Visualization <br/> 💰 Cryptocurrency and Blockchain Technology | 😎 Cool Guy <br/> ENTJ |
+| 💻 Developing SNS apps and afterlife using Flutter <br/>   | 😎 Cool Guy <br/>  🎈 ENTJ |
   
 </div>
 
