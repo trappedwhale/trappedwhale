@@ -12,10 +12,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
+- 
+<h3>🌱 Currently Learning</h3>
+<p >
+  💻 Deep Learning and AI<br/>
+  📈 Data Analysis and Visualization<br/>
+  💰 Cryptocurrency and Blockchain Technology
+</p>
   
-<h3 align="center">🎨 Fun Facts & Hobbies</h3>
-<p align="center">
+<h3>🎨 Fun Facts & Hobbies</h3>
+<p >
   🎸 I love playing guitar!<br/>
   🌍 I'm passionate about traveling.<br/>
   🎮 Video games are my favorite hobby.
