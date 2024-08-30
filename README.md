@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </div>
 <!-- https://m.blog.naver.com/tramper2/222278488224 -->
-
+<!-- https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B -->
 
 <h1 align="center">Hello and Welcome!</h1>
 <p align="center">
