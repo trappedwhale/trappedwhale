@@ -32,70 +32,73 @@ I’m excited to have you here and to share a glimpse into who I am. My journey 
 
 ## 🔭 Currently Working On
 
-- 💻 **Developing SNS apps using Flutter**
-- 🛠 **Working on the `afterlife` project with Flutter**
+- 💻 **Developing iOS apps with SwiftUI**
+- 🛠 **Building SP!T — A secure and anonymous app using Swift and Supabase**
 
 ---
 
 ## 🌱 Currently Learning
 
-- 💻 **Deep Learning and AI**
-- 📈 **Data Analysis and Visualization**
-- 💰 **Cryptocurrency and Blockchain Technology**
+- 🧠 **Machine Learning & Core ML**
+- 📊 **Data Visualization & Analytics**
+- 🔐 **Security Practices for Mobile Development**
 
 ---
 
 ## 🛠 Tools & Technologies
 
 <div>
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=black" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-5D70D0.svg?style=for-the-badge&logo=Swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-1B98D6.svg?style=for-the-badge&logo=Swift&logoColor=white" />
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/Spread-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=black" />
+  <img src="https://img.shields.io/badge/Realm-147EFB.svg?style=for-the-badge&logo=Realm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleAds-4285F4.svg?style=for-the-badge&logo=GoogleAds&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/CloudKit-79C8F7.svg?style=for-the-badge&logo=iCloud&logoColor=white" />
 </div>
 
 ---
 
 ## ✨ Tech Stack ✨
 
-<div>
-  <img src="https://img.shields.io/badge/flutter-0eb4fc?style=for-the-badge&logo=Flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Bevy-232326.svg?style=for-the-badge&logo=Bevy&logoColor=white" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=GodotEngine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-black.svg?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/Xcode-black.svg?style=for-the-badge&logo=Xcode&logoColor=147EFB" />
-</div>
+### Mobile Development
+
+- **Swift** & **SwiftUI** — Primary language & framework for building iOS apps
+- **UIKit** — For legacy and complex UI requirements
+- **Core Data** — Local database storage for iOS apps
+- **Combine** — For reactive programming in iOS
+- **Core ML** — For integrating machine learning models into iOS apps
+
+### Backend & Databases
+
+- **Supabase** — Open-source Firebase alternative for real-time databases & authentication
+- **Firebase** — Used for notifications, real-time database, and cloud functions
+- **Realm** — Mobile-first database for high-performance local storage
+
+### Tools
+
+- **Xcode** — IDE for iOS development
+- **GitHub** — Version control and repository hosting
+- **TestFlight** — Beta testing and distribution for iOS apps
+- **Figma** — UI/UX design and prototyping
 
 ---
 
 ## ✨ Languages ✨
 
 <div>
-  <img src="https://img.shields.io/badge/dart-0eb4fc?style=for-the-badge&logo=Dart&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/rust-white?style=for-the-badge&logo=Rust&logoColor=000000" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=000000" />
-</div>
-<div>
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=black" />
+  <img src="https://img.shields.io/badge/Objective_C-5E4B3C?style=for-the-badge&logo=Objective-C&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-5D70D0?style=for-the-badge&logo=Swift&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=Css3&logoColor=white" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- Stats and Activity Graph can be added below -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
