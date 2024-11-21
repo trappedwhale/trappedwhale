@@ -34,6 +34,7 @@ I’m excited to have you here and to share a glimpse into who I am. My journey 
 
 - 💻 **Developing iOS apps with SwiftUI**
 - 🛠 **Building SP!T — A secure and anonymous app using Swift and Supabase**
+- 🎮 **Creating engaging 2D games using SpriteKit**
 
 ---
 
@@ -51,13 +52,13 @@ I’m excited to have you here and to share a glimpse into who I am. My journey 
   <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=black" />
   <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-5D70D0.svg?style=for-the-badge&logo=Swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpriteKit-0C6A8F.svg?style=for-the-badge&logo=SpriteKit&logoColor=white" />
   <img src="https://img.shields.io/badge/Combine-1B98D6.svg?style=for-the-badge&logo=Swift&logoColor=white" />
 </div>
 
 <div>
   <img src="https://img.shields.io/badge/Realm-147EFB.svg?style=for-the-badge&logo=Realm&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudKit-79C8F7.svg?style=for-the-badge&logo=iCloud&logoColor=white" />
 </div>
 
@@ -68,6 +69,7 @@ I’m excited to have you here and to share a glimpse into who I am. My journey 
 ### Mobile Development
 
 - **Swift** & **SwiftUI** — Primary language & framework for building iOS apps
+- **SpriteKit** — 2D game framework for creating engaging animations and interactive scenes
 - **UIKit** — For legacy and complex UI requirements
 - **Core Data** — Local database storage for iOS apps
 - **Combine** — For reactive programming in iOS
@@ -76,7 +78,7 @@ I’m excited to have you here and to share a glimpse into who I am. My journey 
 ### Backend & Databases
 
 - **Supabase** — Open-source Firebase alternative for real-time databases & authentication
-- **Firebase** — Used for notifications, real-time database, and cloud functions
+- **CloudKit** — Apple's own cloud-based database solution for seamless iOS integration
 - **Realm** — Mobile-first database for high-performance local storage
 
 ### Tools
