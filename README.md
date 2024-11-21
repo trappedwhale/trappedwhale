@@ -61,29 +61,29 @@ I’m excited to have you here and to share a glimpse into who I am. My journey 
 </div>
 
 ---
-
 ## ✨ Tech Stack ✨
 
 ### Mobile Development
 
-- **Swift** & **SwiftUI** — Primary language & framework for building iOS apps
-- **SpriteKit** — 2D game framework for creating engaging animations and interactive scenes
-- **Core Data** — Local database storage for iOS apps
-- **Combine** — For reactive programming in iOS
-- **Core ML** — For integrating machine learning models into iOS apps
+- 🖥️ **Swift** & **SwiftUI** — Primary language & framework for building iOS apps
+- 🎮 **SpriteKit** — 2D game framework for creating engaging animations and interactive scenes
+- 🛠️ **UIKit** — For legacy and complex UI requirements
+- 💾 **Core Data** — Local database storage for iOS apps
+- 🔄 **Combine** — For reactive programming in iOS
+- 🤖 **Core ML** — For integrating machine learning models into iOS apps
 
 ### Backend & Databases
 
-- **Supabase** — Open-source Firebase alternative for real-time databases & authentication
-- **CloudKit** — Apple's own cloud-based database solution for seamless iOS integration
-- **Realm** — Mobile-first database for high-performance local storage
+- ⚡ **Supabase** — Open-source Firebase alternative for real-time databases & authentication
+- ☁️ **CloudKit** — Apple's own cloud-based database solution for seamless iOS integration
+- 🔑 **Realm** — Mobile-first database for high-performance local storage
 
 ### Tools
 
-- **Xcode** — IDE for iOS development
-- **GitHub** — Version control and repository hosting
-- **TestFlight** — Beta testing and distribution for iOS apps
-- **Figma** — UI/UX design and prototyping
+- 🧰 **Xcode** — IDE for iOS development
+- 🌐 **GitHub** — Version control and repository hosting
+- 📱 **TestFlight** — Beta testing and distribution for iOS apps
+- 🎨 **Figma** — UI/UX design and prototyping
 
 ---
 
