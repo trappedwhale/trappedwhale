@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
-</div>
+
 
 # Hello and Welcome! 🎉
 
@@ -70,7 +68,6 @@ I’m excited to have you here and to share a glimpse into who I am. My journey 
 
 - **Swift** & **SwiftUI** — Primary language & framework for building iOS apps
 - **SpriteKit** — 2D game framework for creating engaging animations and interactive scenes
-- **UIKit** — For legacy and complex UI requirements
 - **Core Data** — Local database storage for iOS apps
 - **Combine** — For reactive programming in iOS
 - **Core ML** — For integrating machine learning models into iOS apps
