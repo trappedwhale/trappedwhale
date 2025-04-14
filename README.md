@@ -1,38 +1,106 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4E50,50:F9D423,100:24C6DC&height=100&section=header&text=Welcome%20to%20My%20Dev%20World!&fontSize=35&fontColor=ffffff" width="100%"/>
-🎮 Hello! I’m a Game Developer
-게임과 기술, 그리고 창의성의 만남을 사랑하는 개발자입니다!
-Swift와 SpriteKit으로 감성적인 2D 게임을 만들고 있으며, 사용자 경험을 최우선으로 생각합니다.
-아래는 저를 나타내는 몇 가지 키워드입니다!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-🧑‍💻 Who Am I?
-🎸 Guitar-playing Coder
 
-🧠 Creative Problem Solver
 
-🕹️ Indie Game Enthusiast
+# Hello and Welcome! 🎉
 
-🌍 Tech Explorer
+I’m excited to have you here and to share a glimpse into who I am. My journey is a vibrant mix of passions, interests, and experiences that shape the way I approach life and work. From exploring new technologies to indulging in my favorite hobbies, I strive to balance creativity with innovation. Here’s a closer look at how I embrace and describe my unique blend of traits and pursuits.
 
-🔄 Always Iterating & Improving
+---
 
-🎮 Game Dev Tools & Frameworks
-<div> <img src="https://img.shields.io/badge/SpriteKit-0C6A8F.svg?style=for-the-badge&logo=SpriteKit&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=black" /> <img src="https://img.shields.io/badge/SwiftUI-5D70D0.svg?style=for-the-badge&logo=Swift&logoColor=white" /> <img src="https://img.shields.io/badge/UIKit-2396F3.svg?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Combine-1B98D6.svg?style=for-the-badge&logo=Swift&logoColor=white" /> </div>
-🛠 Backend & Tools
-<div> <img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" /> <img src="https://img.shields.io/badge/CloudKit-79C8F7.svg?style=for-the-badge&logo=iCloud&logoColor=white" /> <img src="https://img.shields.io/badge/Realm-512BD4.svg?style=for-the-badge&logo=Realm&logoColor=white" /> <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" /> <img src="https://img.shields.io/badge/TestFlight-007AFF.svg?style=for-the-badge&logo=Apple&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" /> </div>
-🔍 Currently Building
-🎮 2D 캐주얼 게임 – SpriteKit 기반의 중독성 있는 게임
+## 😄 Pronouns
 
-🤖 Core ML 실험 – 게임에 AI 기능 적용하기
+- 😎 **Cool Guy**
+- 📚 **Avid Reader**
+- 🎶 **Music Lover**
+- 🚀 **Adventurer**
+- 🌟 **Innovator**
+- 🎨 **Creative Mind**
+- 🌱 **Lifelong Learner**
 
-📚 Currently Learning
-📊 게임 내 데이터 시각화 & 분석
+---
 
-🧠 Core ML을 통한 게임 인텔리전스
+## 🎨 Fun Facts & Hobbies
 
-🔐 iOS 보안 모범 사례
+- 🎸 **I love playing guitar!**
+- 🌍 **I'm passionate about traveling.**
+- 🎮 **Video games are my favorite hobby.**
 
-💻 Languages
-<div> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black" /> <img src="https://img.shields.io/badge/Objective--C-5E4B3C?style=for-the-badge&logo=Objective-C&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </div>
-📈 GitHub Stats
+---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4E50,50:F9D423,100:24C6DC&height=40&section=footer&text=Thanks%20for%20Stopping%20By!%20👾&fontSize=16&fontColor=ffffff" width="100%"/> </div>
+## 🔭 Currently Working On
+
+- 💻 **Developing iOS apps with SwiftUI**
+- 🛠 **Building SP!T — A secure and anonymous app using Swift and Supabase**
+- 🎮 **Creating engaging 2D games using SpriteKit**
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 **Machine Learning & Core ML**
+- 📊 **Data Visualization & Analytics**
+- 🔐 **Security Practices for Mobile Development**
+
+---
+
+## 🛠 Tools & Technologies
+
+<div>
+  <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=black" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-5D70D0.svg?style=for-the-badge&logo=Swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpriteKit-0C6A8F.svg?style=for-the-badge&logo=SpriteKit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-1B98D6.svg?style=for-the-badge&logo=Swift&logoColor=white" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Realm-147EFB.svg?style=for-the-badge&logo=Realm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudKit-79C8F7.svg?style=for-the-badge&logo=iCloud&logoColor=white" />
+</div>
+
+---
+## ✨ Tech Stack ✨
+
+### Mobile Development
+
+- 🖥️ **Swift** & **SwiftUI** — Primary language & framework for building iOS apps
+- 🎮 **SpriteKit** — 2D game framework for creating engaging animations and interactive scenes
+- 🛠️ **UIKit** — For legacy and complex UI requirements
+- 💾 **Core Data** — Local database storage for iOS apps
+- 🔄 **Combine** — For reactive programming in iOS
+- 🤖 **Core ML** — For integrating machine learning models into iOS apps
+
+### Backend & Databases
+
+- ⚡ **Supabase** — Open-source Firebase alternative for real-time databases & authentication
+- ☁️ **CloudKit** — Apple's own cloud-based database solution for seamless iOS integration
+- 🔑 **Realm** — Mobile-first database for high-performance local storage
+
+### Tools
+
+- 🧰 **Xcode** — IDE for iOS development
+- 🌐 **GitHub** — Version control and repository hosting
+- 📱 **TestFlight** — Beta testing and distribution for iOS apps
+- 🎨 **Figma** — UI/UX design and prototyping
+
+---
+
+## ✨ Languages ✨
+
+<div>
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=black" />
+  <img src="https://img.shields.io/badge/Objective_C-5E4B3C?style=for-the-badge&logo=Objective-C&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-5D70D0?style=for-the-badge&logo=Swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trappedwhale)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div>
