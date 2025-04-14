@@ -1,45 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=100&section=header&text=Welcome%20to%20My%20Game%20Dev%20Hub!&fontSize=35&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Welcome%20to%20My%20World!&fontSize=35&fontColor=ffffff" width="100%"/>
 
-# 🎮 Hi there! I'm a Game Developer.
+# 👋 Hello! I'm a Game Developer & Quant Coder
 
-I craft interactive worlds using **Godot** and bring them to life with **Python**.  
-Game development for me is all about creativity, storytelling, and technical precision.
+I’m building immersive games using **Godot Engine (GDScript)**  
+and developing **AI-driven trading systems** with **Python**.
 
----
-
-## 🔧 Tech Stack
-
-- 🐍 **Python** – for scripting and tool development  
-- 🎮 **Godot Engine** – my go-to for 2D/3D game creation  
-- 🧠 **GDScript** – Godot's built-in scripting language  
-- 🛠️ **VS Code** – my favorite code editor  
+Two worlds, one passion — **Creative Logic.**
 
 ---
 
-## 🚀 Currently Working On
+## 🕹 Game Development (Godot)
 
-- Designing gameplay systems and AI using Godot + Python  
-- Building tools to streamline game dev workflows  
-- Experimenting with shaders and visual effects  
-
----
-
-## 📚 Learning & Exploring
-
-- Game architecture and clean code practices  
-- Procedural generation techniques  
-- Visual scripting and node-based systems in Godot  
+- 🎮 2D/3D game prototyping and level design  
+- 📜 GDScript for gameplay programming  
+- 🧠 AI behaviors and game systems  
+- 🎨 Pixel art and animation integration  
+- 🌱 Currently exploring procedural generation and shaders
 
 ---
 
-## 🎯 Goals
+## 📈 Quant & Crypto Automation (Python)
 
-- Release an indie title powered by Godot  
-- Build reusable systems and tools for rapid prototyping  
-- Explore Python-based game logic across genres  
+- ⚙️ Algorithmic trading bots for crypto markets  
+- 📊 Quantitative analysis and backtesting  
+- 🤖 AI/ML models for market prediction  
+- ⏱ Real-time data handling and strategy automation  
+- 💼 Focused on scalability, reliability, and low-latency execution
+
+---
+
+## 🛠 Tools I Use
+
+- 🎮 **Godot Engine** — for game development  
+- 🐍 **Python** — for AI, finance, and automation  
+- 🧠 **Pandas, NumPy, Scikit-learn** — for quant strategies  
+- 🧪 **Backtrader, ccxt** — for trading system development  
+- 💻 **VS Code** — my daily driver IDE  
+
+---
+
+## 🚀 Side Projects & Goals
+
+- Launch an indie title on itch.io or Steam  
+- Build a scalable trading system with live deployment  
+- Blend game design and AI to create unique gameplay experiences  
+- Explore reinforcement learning in both games and markets
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=40&section=footer&text=Thanks%20for%20visiting!%20👾&fontSize=16&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=40&section=footer&text=Thanks%20for%20dropping%20by!%20🚀&fontSize=16&fontColor=ffffff" width="100%"/>
 </div>
