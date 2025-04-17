@@ -48,6 +48,8 @@ Two worlds, one passion — **Creative Logic.**
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trappedwhale)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=40&section=footer&text=Thanks%20for%20dropping%20by!%20🚀&fontSize=16&fontColor=ffffff" width="100%"/>
 </div>
