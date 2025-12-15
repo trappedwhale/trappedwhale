@@ -3,9 +3,10 @@
 # 👋 Hello! I'm a Game Developer & Quant Coder
 
 I’m building immersive games using **Godot Engine (GDScript)**  
-and developing **AI-driven trading systems** with **Python**.
+developing **AI-driven trading systems** with **Python**,  
+and crafting **cross-platform mobile apps** with **Flutter & Dart**.
 
-Two worlds, one passion — **Creative Logic.**
+Three worlds, one passion — **Creative Logic.**
 
 ---
 
@@ -15,7 +16,17 @@ Two worlds, one passion — **Creative Logic.**
 - 📜 GDScript for gameplay programming  
 - 🧠 AI behaviors and game systems  
 - 🎨 Pixel art and animation integration  
-- 🌱 Currently exploring procedural generation and shaders
+- 🌱 Exploring procedural generation and shaders  
+
+---
+
+## 📱 App Development (Flutter & Dart)
+
+- 📲 Cross-platform mobile apps (iOS & Android)  
+- 🎨 Clean UI/UX with Material & Cupertino design  
+- 🔐 Authentication & state management  
+- 🌐 REST API & real-time data integration  
+- ⚡ Performance-focused, scalable app architecture  
 
 ---
 
@@ -25,17 +36,18 @@ Two worlds, one passion — **Creative Logic.**
 - 📊 Quantitative analysis and backtesting  
 - 🤖 AI/ML models for market prediction  
 - ⏱ Real-time data handling and strategy automation  
-- 💼 Focused on scalability, reliability, and low-latency execution
+- 💼 Focused on scalability, reliability, and low-latency execution  
 
 ---
 
 ## 🛠 Tools I Use
 
-- 🎮 **Godot Engine** — for game development  
-- 🐍 **Python** — for AI, finance, and automation  
-- 🧠 **Pandas, NumPy, Scikit-learn** — for quant strategies  
-- 🧪 **Backtrader, ccxt** — for trading system development  
-- 💻 **VS Code** — my daily driver IDE  
+- 🎮 **Godot Engine** — game development  
+- 📱 **Flutter & Dart** — mobile app development  
+- 🐍 **Python** — AI, finance, and automation  
+- 🧠 **Pandas, NumPy, Scikit-learn** — quant strategies  
+- 🧪 **Backtrader, ccxt** — trading system development  
+- 💻 **VS Code** — daily driver IDE  
 
 ---
 
@@ -43,8 +55,9 @@ Two worlds, one passion — **Creative Logic.**
 
 - Launch an indie title on itch.io or Steam  
 - Build a scalable trading system with live deployment  
-- Blend game design and AI to create unique gameplay experiences  
-- Explore reinforcement learning in both games and markets
+- Develop production-ready mobile apps with Flutter  
+- Blend game design, AI, and apps into unique experiences  
+- Explore reinforcement learning in both games and markets  
 
 ---
 
